@@ -1,1 +1,1 @@
-export {isMobilePhone} from './isMobilePhone.ts'
+export { default as isMobilePhone } from './isMobilePhone.ts'
