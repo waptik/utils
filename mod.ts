@@ -1,0 +1,1 @@
+export {isMobilePhone} from './isMobilePhone.ts'

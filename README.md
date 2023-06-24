@@ -1,0 +1,1 @@
+a list of helper function utilities mostly to be used in [Deno](https://deno.land) projects but can easily be ported in Node.js projects.
